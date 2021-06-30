@@ -1,0 +1,13 @@
+main {
+  min-height: 80vh;
+}
+.acn {
+  text-decoration: none;
+  color: rgb(80, 76, 76);
+}
+h3 {
+  padding: 1rem;
+}
+.rating span {
+  margin: 0.1rem;
+}
