@@ -5,7 +5,14 @@ const Footer = () => {
     <footer>
       <Container>
         <Row>
-          <Col className="text-center py-3">Copyright &copy; Hassle 2021</Col>
+          <Col className="text-center">
+            <p>
+              © Copyright 2020 <strong className="text-dark">Hassel</strong>
+              . All Rights Reserved
+              <br />
+              <small>Made with ❤️ by vikky</small>
+            </p>
+          </Col>
         </Row>
       </Container>
     </footer>
